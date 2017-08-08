@@ -1,0 +1,2 @@
+class ActorsProject < ApplicationRecord
+end
